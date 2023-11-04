@@ -1,6 +1,6 @@
 ### create template for flaskapp and mysql using below command:
-# helm create flaskapp-chart 
-# helm create mysql-chart
+helm create flaskapp-chart #
+helm create mysql-chart
 
 ### Do changes in values file in both chart according to project.
 ### Install mysql-chart on kubernetes:
